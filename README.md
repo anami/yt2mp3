@@ -14,9 +14,9 @@ To quit - Enter nothing and press ENTER on the search prompt..
 Apart from the gems in the Bundler gemfile - yt2mp3 needs ffmpeg installed or close by (in the current directory).
 For Mac users - it's up to you how you install this..  Homebrew works for me! :-)
 
-[FFMPEG][http://ffmpeg.org]
-[Homebrew][http://mxcl.github.com/homebrew/]
-[MacPorts][http://www.macports.org/]
+[FFMPEG](http://ffmpeg.org)
+[Homebrew](http://mxcl.github.com/homebrew/)
+[MacPorts](http://www.macports.org/)
 
 
 ## Usage
